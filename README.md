@@ -1,1 +1,1 @@
-[class](https://web.dio.me/course/conhecendo-collections-java/learning/072c575b-8883-4f16-a26f-9e7a92fd6bf9?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined)
+[class about Map](https://web.dio.me/course/conhecendo-collections-java/learning/072c575b-8883-4f16-a26f-9e7a92fd6bf9?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined)
